@@ -57,7 +57,7 @@ export const deleteTech = (id) => async (dispatch) => {
     });
 
     dispatch({
-      type: GET_TECHS,
+      type: DELETE_TECH,
       payload: id,
     });
   } catch (err) {

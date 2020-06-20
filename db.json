@@ -2,14 +2,9 @@
   "logs": [],
   "techs": [
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Mohd",
+      "lastName": "Zaid",
+      "id": 4
     }
   ]
 }

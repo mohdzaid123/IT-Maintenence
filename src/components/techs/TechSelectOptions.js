@@ -22,7 +22,7 @@ const TechSelectOptions = ({ getTechs, tech: { techs, loading } }) => {
 
 TechSelectOptions.propTypes = {
   tech: PropTypes.object.isRequired,
-  getTechs: PropTypes.arrayOf().isRequired,
+  getTechs: PropTypes.func.isRequired,
 };
 
 const mapStateToProps = (state) => ({
